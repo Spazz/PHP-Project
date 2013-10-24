@@ -1,4 +1,4 @@
-<?php # Script 11.5 - login.php #2
+<?php #Login functions
 
 if (isset($_POST['submitted'])) {
 	require_once ('includes/login_functions.php');
